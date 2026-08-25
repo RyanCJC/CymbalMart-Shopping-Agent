@@ -1,0 +1,10 @@
+{
+  "name": "CymbalMart Shopping Agent",
+  "description": "An intelligent AI-powered party planning and grocery/supplies shopping assistant that generates categorized shopping lists, calculates portion sizes, tracks budgets, compares store prices, and tailors supplies to guest count, dietary needs, and themes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
